@@ -1,0 +1,1 @@
+Usage : java -cp out GenerateurLogs <matricule> <nombreDeLignes>

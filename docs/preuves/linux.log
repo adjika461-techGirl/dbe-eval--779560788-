@@ -1,0 +1,372 @@
+Script démarré sur 2026-11-23 12:30:40+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="182" LINES="43"]
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mcd ~/dbe-eval-779560788[27mcd ~/dbe-eval-779560788
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ ls [K[K[Kcode .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7m./programme 2> logs/gen.err[27m
+[7mecho $?[27m[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ ./programme 2> logs/gen.err
+echo $?
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\127
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ echo $?./programme 2> logs/gen.err[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+[?2004l]133;C\]666;vte.shell.preexec!\bash: logs/gen.err: Permission non accordée
+]666;vte.shell.postexec=126\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7m./programme 2> logs/gen.err[27m
+[7mecho $?[27m[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ ./programme 2> logs/gen.err
+echo $?
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\127
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [K]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [K]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7m./programme 2> logs/gen.err; echo "Code de retour : $?"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./programme 2> logs/gen.err; echo "Code de retour : $?"
+[?2004l]133;C\]666;vte.shell.preexec!\Code de retour : 127
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ ./programme 2> logs/gen.err; echo "Code de retour : $?"[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[K[1P
+[?2004l]133;C\]666;vte.shell.preexec!\127
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ echo $![K§[K/[K§§[K[K[K$!:[K[K/[K;,[K[K.[K§[K£%ù$*[K[K[K[K[K./[K[K;:[K[K[K^V[K[K [7m$?[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$?
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\0
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ java )[K)[K-cp out Gen[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mdocs[0m  [01;34mlogs[0m  [01;34mrapports[0m  [01;34mrendus[0m  [01;34mscripts[0m  [01;34msrc[0m
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ ls src/
+[?2004l]133;C\]666;vte.shell.preexec!\GenerateurLogs.java
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ java [Kc out src/g[KGenerateurLogs.java 
+[?2004l]133;C\]666;vte.shell.preexec!\error: Class names, 'out', are only accepted if annotation processing is explicitly requested
+1 error
+]666;vte.shell.postexec=1\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ javac out src/GenerateurLogs.java [1@-[1@d[1@ 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ javac -d out src/GenerateurLogs.java [1P[C[C[C[1P[1@c[1@p[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P [1P [1P [1P [1P [1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2/[K:[K§[K.§[K[K[K[7m2> [27m2> [K logs/gen.err ;[C[1P;[C echo $[K[7m$?[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$?
+[A
+[?2004l]133;C\]666;vte.shell.preexec!\1
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mcat logs/gen.err[27mcat logs/gen.err
+[?2004l]133;C\]666;vte.shell.preexec!\Usage : java -cp out GenerateurLogs <matricule> <nombreDeLignes>
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mcat src/GenerateurLogs.java[27mcat src/GenerateurLogs.java
+[?2004l]133;C\]666;vte.shell.preexec!\import java.util.Random;
+ 
+/**
+ * Génère un journal d'accès d'API back-end, propre à chaque étudiant.
+ * Usage : java -cp out GenerateurLogs <matricule> <nombreDeLignes>
+ */
+public class GenerateurLogs {
+    static final String[] ENDPOINTS = {
+        "/api/etudiants", "/api/etudiants/", "/api/notes", "/api/cours",
+        "/api/auth/login", "/api/paiements", "/api/health"
+    };
+ 
+    public static void main(String[] args) {
+        if (args.length != 2) {
+            System.err.println("Usage : java -cp out GenerateurLogs <matricule> <nombreDeLignes>");
+            System.exit(1);
+        }
+        int n;
+        try {
+            n = Integer.parseInt(args[1]);
+        } catch (NumberFormatException e) {
+            System.err.println("Erreur : le nombre de lignes doit être un entier");
+            System.exit(2);
+            return;
+        }
+        Random r = new Random(args[0].hashCode());
+        String suspecte = "197.149." + r.nextInt(256) + "." + (1 + r.nextInt(254));
+        int seconde = 8 * 3600;
+        for (int i = 0; i < n; i++) {
+            seconde += 1 + r.nextInt(12);
+            boolean attaque = r.nextInt(100) < 6;
+            String ip = attaque ? suspecte : "10.0." + r.nextInt(4) + "." + (10 + r.nextInt(15));
+            String chemin = attaque ? "/api/auth/login" : ENDPOINTS[r.nextInt(ENDPOINTS.length)];
+            String methode = "GET";
+            int statut = 200;
+            int duree = 5 + r.nextInt(300);
+            switch (chemin) {
+                case "/api/etudiants/":
+                    chemin += (1 + r.nextInt(120));
+                    statut = r.nextInt(100) < 15 ? 404 : 200;
+                    break;
+                case "/api/notes":
+                    chemin += "?page=" + (1 + r.nextInt(5));
+                    statut = r.nextInt(100) < 8 ? 400 : 200;
+                    break;
+                case "/api/auth/login":
+                    methode = "POST";
+                    statut = attaque ? 401 : (r.nextInt(100) < 20 ? 401 : 200);
+                    break;
+                case "/api/paiements":
+                    methode = r.nextBoolean() ? "POST" : "GET";
+                    int t = r.nextInt(100);
+                    statut = t < 6 ? 500 : (t < 10 ? 503 : (methode.equals("POST") ? 201 : 200));
+                    if (r.nextInt(100) < 5) {
+                        duree = 1500 + r.nextInt(1500);
+                    }
+                    break;
+                default:
+                    break;
+            }
+            int octets = statut >= 400 ? 60 + r.nextInt(100) : 200 + r.nextInt(4000);
+            System.out.printf("%s - - [23/Nov/2026:%02d:%02d:%02d +0000] \"%s %s HTTP/1.1\" %d %d %dms%n",
+                ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                statut, octets, duree);
+        }
+    }
+}
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mjava -cp out GenerateurLogs TON_MATRICULE 2000 > logs/access.log[27m
+[7mwc -l logs/access.log[27m
+[7mhead -n 1 logs/access.log[27m[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ java -cp out GenerateurLogs TON_MATRICULE 2000 > logs/access.log
+wc -l logs/access.log
+head -n 1 logs/access.log[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@7[1@7[1@0[1P[1@9[1@5[1@6[1@0[1@7[1@8[1@8[C[1P
+
+
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\2000 logs/access.log
+]133;C\]666;vte.shell.preexec!\197.149.165.81 - - [23/Nov/2026:08:00:12 +0000] "POST /api/auth/login HTTP/1.1" 401 72 283ms
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '{print $9}' logs/access.log | sort | uniq -c | sort -nr[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{print $9}' logs/access.log | sort | uniq -c | sort -nr
+[?2004l]133;C\]666;vte.shell.preexec!\   1607 200
+    186 401
+    113 201
+     50 404
+     19 400
+     16 500
+      9 503
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '{print $7}' logs/access.log | cut -d'?' -f1 | sort | uniq -c | sort -nr | head -3[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{print $7}' logs/access.log | cut -d'?' -f1 | sort | uniq -c | sort -nr | head -3
+[?2004l]133;C\]666;vte.shell.preexec!\    405 /api/auth/login
+    282 /api/etudiants
+    268 /api/cours
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '{print $1}' logs/access.log | sort -u | wc -l[27mawk '{print $1}' logs/access.log | sort -u | wc -l
+[?2004l]133;C\]666;vte.shell.preexec!\61
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '$7 ~ /\/api\/auth\/login/ && $9 == 401 {print $1}' logs/access.log | sort | uniq -c | sort -nr | head -1[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$7 ~ /\/api\/auth\/login/ && $9 == 401 {print $1}' logs/access.log | sort | uniq -c | sort -nr | head -1
+[?2004l]133;C\]666;vte.shell.preexec!\    126 197.149.165.81
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '$9 == 200 {gsub(/ms/,"",$11); s+=$11; n++} END {printf "%.1f\n", s/n}' logs/access.log[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$9 == 200 {gsub(/ms/,"",$11); s+=$11; n++} END {printf "%.1f\n", s/n}' logs/access.log
+[?2004l]133;C\]666;vte.shell.preexec!\164,0
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '{t=$11; gsub(/ms/,"",t); print t, $0}' logs/access.log | sort -nr | head -1 | cut -d' ' -f2-[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{t=$11; gsub(/ms/,"",t); print t, $0}' logs/access.log | sort -nr | head -1 | cut -d' ' -f2-
+[?2004l]133;C\]666;vte.shell.preexec!\10.0.2.14 - - [23/Nov/2026:08:54:02 +0000] "GET /api/paiements HTTP/1.1" 200 2030 2723ms
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mawk '{split($4,a,":"); print a[2]}' logs/access.log | sort | uniq -c | sort -n[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{split($4,a,":"); print a[2]}' logs/access.log | sort | uniq -c | sort -n
+[?2004l]133;C\]666;vte.shell.preexec!\    366 11
+    537 08
+    548 10
+    549 09
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mgrep -E '" [5][0-9]{2} ' logs/access.log | tee logs/erreurs_5xx.log | wc -l[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep -E '" [5][0-9]{2} ' logs/access.log | tee logs/erreurs_5xx.log | wc -l
+[?2004l]133;C\]666;vte.shell.preexec!\25
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7msed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/g' logs/access.log > logs/access_anonyme.log[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/g' logs/access.log > logs/access_anonyme.log
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mhead -n 1 logs/access_anonyme.log[27mhead -n 1 logs/access_anonyme.log
+[?2004l]133;C\]666;vte.shell.preexec!\x.x.x.x - - [23/Nov/2026:08:00:12 +0000] "POST /api/auth/login HTTP/1.1" 401 72 283ms
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mfind . -name "*.log" -mmin -60 -size +1k -exec wc -l {} +[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind . -name "*.log" -mmin -60 -size +1k -exec wc -l {} +
+[?2004l]133;C\]666;vte.shell.preexec!\   141 ./docs/preuves/linux.log
+  2000 ./logs/access.log
+  2000 ./logs/access_anonyme.log
+    25 ./logs/erreurs_5xx.log
+  4166 total
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ nano c[Ksrc/analyse.sh
+[?2004l]133;C\]666;vte.shell.preexec!\[?2004h[?1049h[22;0;0t[1;43r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[41;82H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 8.7.1                                                                       src/analyse.sh                                                                                 [1;181H(B[m[42d(B[0;7m^G(B[m Aide[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43d(B[0;7m^X(B[m Quitter[17G(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier[129G(B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[2d[?12l[?25h[?25l[1;103H(B[0;7m*[41d(B[m[K[1;181H[2;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"--- Temps de réponse moyen (code 200) ---"[3;5H[34mawk[39m(B[m '(B[0;1m[31m$9[39m(B[m [32m==[39m(B[m 200 [32m{[39m(B[ms +[32m=[39m(B[m (B[0;1m[31m$1[39m(B[m1[32m;[39m(B[m n++[32m}[4;10H[39m(B[mEND [32m{if[39m(B[m [32m([39m(B[mn[32m)[39m(B[m (B[0;1m[34mprintf[39m(B[m (B[0;1m[33m"%.1f\n"[39m(B[m, s / n[32m;[39m(B[m [32melse[39m(B[m print (B[0;1m[33m"aucune requête 200"(B[0m[32m}[39m(B[m' (B[0;1m[33m"$FICHIER"[5d(B[0m[32m}[7d(B[0;1m[32mmain(B[0m[32m()[39m(B[m [32m{[8;5H[39m(B[mverifier_arguments (B[0;1m[33m"$@"[9;5H[34mmkdir[35m -p[39m(B[m rapports[10;5H[32mlocal[39m(B[m rapport[32m=(B[0;1m[33m"rapports/rapport_${MATRICULE}_$(date +%Y%m%d_%H%M).txt"[11;5H(B[0m[32m{[12;9H[39m(B[mentete[13;9Hfamilles[14;9Htop_endpoints[15;9Hip_suspecte[16;9Htemps_moyen[17;5H[32m}[39m(B[m [32m>[39m(B[m (B[0;1m[33m"$rapport"[18;5H[34mecho[39m(B[m (B[0;1m[33m"Rapport écrit dans $rapport"[19d(B[0m[32m}[21d[39m(B[mmain (B[0;1m[33m"$@"[39m(B[m[?12l[?25h[?25l[41;84H(B[0;7m[ Écriture... ](B[m[1;103H(B[0;7m [181G(B[m[41;81H(B[0;7m[ 88 lignes écrites ](B[m[?12l[?25h[21;10H[?25l[42;17H         [33G    (B[0;7mM-D(B[m Format DOS       [65G        (B[0;7mM-A(B[m Ajout (à la fin)[16X[42;109H(B[0;7mM-B(B[m Copie de sécu.[18X[42;145H(B[0;7m^T(B[m Parcourir[K[43;2H(B[0;7mC(B[m Annul[43;17H[20X[43;37H(B[0;7mM-M(B[m Format Mac       [65G        (B[0;7mM-P(B[m Ajout (au début)[16X[43;109H(B[0;7m^Q(B[m Abandonner l'espace[K[42;157H[A(B[0;7mÉcrire dans un fichier: src/analyse.sh                                                                                                                                                [41;39H(B[m[?12l[?25h[?25l[41;83H[1K (B[0;7m[ Écriture... ](B[m[K[1;181H[41;81H(B[0;7m[ 88 lignes écrites ](B[m[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43;2H(B[0;7mX(B[m Quitt[43;17H(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier      (B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[?12l[?25h[21;10H[?25l[41;81H   (B[0;7m[ Écriture... ](B[m[K[1;181H[41;81H(B[0;7m[ 88 lignes écrites ](B[m[?12l[?25h[21;10H[?25l[41d[J[43d[?12l[?25h[43;1H[?1049l[23;0;0t[?1l>[?2004l]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ nano src/[1P/[1P/[1P/[1P/[C[C[K [7mdocs/linux.md[27mdocs/linux.md
+[?2004l]133;C\]666;vte.shell.preexec!\[?2004h[?1049h[22;0;0t[1;43r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[41;82H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 8.7.1                                                                        docs/linux.md                                                                                 [1;181H(B[m[42d(B[0;7m^G(B[m Aide[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43d(B[0;7m^X(B[m Quitter[17G(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier[129G(B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[2d[?12l[?25h[?25l[1;103H(B[0;7m*[41d(B[m[K[1;181H[2dmkdir -p docs logs[3dexport MATRICULE=779560788[4d: > logs/vide.log[6d{[7d echo "## L4 - Tests de scripts/analyse.sh"[8;3Hecho[10;3Hbash scripts/analyse.sh logs/access.log; rc=$?[11;3Hecho "- Cas correct : code de retour $rc (attendu 0)"[13;3Hbash scripts/analyse.sh; rc=$?[14;3Hecho "- Sans argument : code de retour $rc (attendu 1)"[16;3Hbash scripts/analyse.sh logs/absent.log; rc=$?[17;3Hecho "- Fichier absent : code de retour $rc (attendu 2)"[19;3Hbash scripts/analyse.sh logs/vide.log; rc=$?[20;3Hecho "- Fichier vide : code de retour $rc (attendu 3)"[21d} >> docs/linux.md 2>&1 || true[?12l[?25h[?25l[?12l[?25h[2;19H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[42;17H         [33G    (B[0;7mM-D(B[m Format DOS       [65G        (B[0;7mM-A(B[m Ajout (à la fin)[16X[42;109H(B[0;7mM-B(B[m Copie de sécu.[18X[42;145H(B[0;7m^T(B[m Parcourir[K[43;2H(B[0;7mC(B[m Annul[43;17H[20X[43;37H(B[0;7mM-M(B[m Format Mac       [65G        (B[0;7mM-P(B[m Ajout (au début)[16X[43;109H(B[0;7m^Q(B[m Abandonner l'espace[K[42;157H[A(B[0;7mÉcrire dans un fichier: docs/linux.md                                                                                                                                                 [41;38H(B[m[?12l[?25h[?25l[41;83H[1K (B[0;7m[ Écriture... ](B[m[K[1;103H(B[0;7m [181G(B[m[41;81H(B[0;7m[ 20 lignes écrites ](B[m[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43;2H(B[0;7mX(B[m Quitt[43;17H(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier      (B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[?12l[?25h[2;19H[?25l[41d[J[43d[?12l[?25h[43;1H[?1049l[23;0;0t[?1l>[?2004l]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ nano [7mscripts/surveille.sh[27mscripts/surveille.sh
+[?2004l]133;C\]666;vte.shell.preexec!\[?2004h[?1049h[22;0;0t[1;43r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[41;82H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 8.7.1                                                                    scripts/surveille.sh                                                                              [1;181H(B[m[42d(B[0;7m^G(B[m Aide[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43d(B[0;7m^X(B[m Quitter[17G(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier[129G(B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[2d[?12l[?25h[?25l[1;106H(B[0;7m*[41d(B[m[K[1;181H[2d[36m#!/usr/bin/env bash[4d[39m(B[mLOG[32m=(B[0;1m[33m"logs/surveillance.log"[5d[39m(B[mJOURNAL[32m=(B[0;1m[33m"logs/access.log"[7d[34mmkdir[35m -p[39m(B[m logs[9d(B[0;1m[32marret(B[0m[32m()[39m(B[m [32m{[10;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"arrêt propre"[39m(B[m [32m>>[39m(B[m (B[0;1m[33m"$LOG"[11;5H(B[0m[32mexit[39m(B[m 0[12d[32m}[14d[39m(B[mtrap arret SIGTERM[16d[32mwhile[39m(B[m true[32m;[39m(B[m [32mdo[17;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"$(date '+%Y-%m-%d %H:%M:%S') $(wc -l < "[31m$JOURNAL[33m") lignes"[39m(B[m [32m>>[39m(B[m (B[0;1m[33m"$LOG"[18;5H[39m(B[msleep 5 [32m&[19;5H[39m(B[mwait (B[0;1m[31m$![20d(B[0m[32mdone[39m(B[m[?12l[?25h[?25l[42;17H         [33G    (B[0;7mM-D(B[m Format DOS       [65G        (B[0;7mM-A(B[m Ajout (à la fin)[16X[42;109H(B[0;7mM-B(B[m Copie de sécu.[18X[42;145H(B[0;7m^T(B[m Parcourir[K[43;2H(B[0;7mC(B[m Annul[43;17H[20X[43;37H(B[0;7mM-M(B[m Format Mac       [65G        (B[0;7mM-P(B[m Ajout (au début)[16X[43;109H(B[0;7m^Q(B[m Abandonner l'espace[K[42;157H[A(B[0;7mÉcrire dans un fichier: scripts/surveille.sh                                                                                                                                          [41;45H(B[m[?12l[?25h[?25l[41;83H[1K (B[0;7m[ Écriture... ](B[m[K[1;106H(B[0;7m [181G(B[m[41;81H(B[0;7m[ 19 lignes écrites ](B[m[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43;2H(B[0;7mX(B[m Quitt[43;17H(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier      (B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[?12l[?25h[20;5H[?25l[41d[J[43d[?12l[?25h[43;1H[?1049l[23;0;0t[?1l>[?2004l]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ nano [7mscripts/surveille.sh[27mscripts/surveille.sh
+[?2004l]133;C\]666;vte.shell.preexec!\[?2004h[?1049h[22;0;0t[1;43r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[41;85H(B[0;7m[ Lecture... ](B[m[41;80H(B[0;7m[ Lecture de 19 lignes ](B[m[H(B[0;7m  GNU nano 8.7.1                                                                    scripts/surveille.sh                                                                              [1;181H(B[m[42d(B[0;7m^G(B[m Aide[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43d(B[0;7m^X(B[m Quitter[17G(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier[129G(B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[2d[36m#!/usr/bin/env bash[4d[39m(B[mLOG[32m=(B[0;1m[33m"logs/surveillance.log"[5d[39m(B[mJOURNAL[32m=(B[0;1m[33m"logs/access.log"[7d[34mmkdir[35m -p[39m(B[m logs[9d(B[0;1m[32marret(B[0m[32m()[39m(B[m [32m{[10;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"arrêt propre"[39m(B[m [32m>>[39m(B[m (B[0;1m[33m"$LOG"[11;5H(B[0m[32mexit[39m(B[m 0[12d[32m}[14d[39m(B[mtrap arret SIGTERM[16d[32mwhile[39m(B[m true[32m;[39m(B[m [32mdo[17;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"$(date '+%Y-%m-%d %H:%M:%S') $(wc -l < "[31m$JOURNAL[33m") lignes"[39m(B[m [32m>>[39m(B[m (B[0;1m[33m"$LOG"[18;5H[39m(B[msleep 5 [32m&[19;5H[39m(B[mwait (B[0;1m[31m$![20d(B[0m[32mdone[2d[39m(B[m[?12l[?25h[?25l[42;17H         [33G    (B[0;7mM-D(B[m Format DOS       [65G        (B[0;7mM-A(B[m Ajout (à la fin)[16X[42;109H(B[0;7mM-B(B[m Copie de sécu.[18X[42;145H(B[0;7m^T(B[m Parcourir[K[43;2H(B[0;7mC(B[m Annul[43;17H[20X[43;37H(B[0;7mM-M(B[m Format Mac       [65G        (B[0;7mM-P(B[m Ajout (au début)[16X[43;109H(B[0;7m^Q(B[m Abandonner l'espace[K[42;157H[A(B[0;7mÉcrire dans un fichier: scripts/surveille.sh                                                                                                                                          [41;45H(B[m[?12l[?25h[?25l[41;83H[1K (B[0;7m[ Écriture... ](B[m[K[1;181H[41;81H(B[0;7m[ 19 lignes écrites ](B[m[42;17H(B[0;7m^O(B[m Écrire[33G(B[0;7m^F(B[m Chercher     (B[0;7m^K(B[m Couper[65G(B[0;7m^T(B[m Exécuter     (B[0;7m^C(B[m Emplacement  (B[0;7mM-U(B[m Annuler     (B[0;7mM-A(B[m Marquer     (B[0;7mM-](B[m -> Crochet  (B[0;7mM-B(B[m Précédent   (B[0;7m◂(B[m En arrière[43;2H(B[0;7mX(B[m Quitt[43;17H(B[0;7m^R(B[m Lire fich.   (B[0;7m^\(B[m Remplacer    (B[0;7m^U(B[m Coller[65G(B[0;7m^J(B[m Justifier    (B[0;7m^/(B[m Aller ligne  (B[0;7mM-E(B[m Refaire     (B[0;7mM-6(B[m Copier      (B[0;7m^B(B[m Retrouver    (B[0;7mM-F(B[m Suivant     (B[0;7m▸(B[m En avant[?12l[?25h[2d[?25l[41d[J[43d[?12l[?25h[43;1H[?1049l[23;0;0t[?1l>[?2004l]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mexport MATRICULE=TON_MATRICULE[27m
+[7mls -R src scripts docs rapports[27m
+[7mcat docs/linux.md[27m
+[7mcat rapports/rapport_*.txt | head -n 20[27m[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ export MATRICULE=TON_MATRICULE
+ls -R src scripts docs rapports
+cat docs/linux.md
+cat rapports/rapport_*.txt | head -n 20
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\docs:
+linux.md  [0m[01;34mpreuves[0m
+
+docs/preuves:
+linux.log  linux.tm
+
+rapports:
+
+scripts:
+surveille.sh
+
+src:
+GenerateurLogs.java  analyse.sh
+]133;C\]666;vte.shell.preexec!\mkdir -p docs logs
+export MATRICULE=779560788
+: > logs/vide.log
+
+{
+  echo "## L4 - Tests de scripts/analyse.sh"
+  echo
+
+  bash scripts/analyse.sh logs/access.log; rc=$?
+  echo "- Cas correct : code de retour $rc (attendu 0)"
+
+  bash scripts/analyse.sh; rc=$?
+  echo "- Sans argument : code de retour $rc (attendu 1)"
+
+  bash scripts/analyse.sh logs/absent.log; rc=$?
+  echo "- Fichier absent : code de retour $rc (attendu 2)"
+
+  bash scripts/analyse.sh logs/vide.log; rc=$?
+  echo "- Fichier vide : code de retour $rc (attendu 3)"
+} >> docs/linux.md 2>&1 || true
+]133;C\]666;vte.shell.preexec!\cat: 'rapports/rapport_*.txt': No such file or directory
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mmkdir -p docs/preuves rendus[27m
+[7mhistory > docs/preuves/historique_linux.txt[27m
+[7mwc -l docs/preuves/historique_linux.txt[27m
+[7mcat docs/preuves/historique_linux.txt | tail -n 20[27m[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ mkdir -p docs/preuves rendus
+history > docs/preuves/historique_linux.txt
+wc -l docs/preuves/historique_linux.txt
+cat docs/preuves/historique_linux.txt | tail -n 20
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\361 docs/preuves/historique_linux.txt
+]133;C\]666;vte.shell.preexec!\  342  2026-11-23 14:16:49 awk '{print $9}' logs/access.log | sort | uniq -c | sort -nr
+  343  2026-11-23 14:19:02 awk '{print $7}' logs/access.log | cut -d'?' -f1 | sort | uniq -c | sort -nr | head -3
+  344  2026-11-23 14:39:07 awk '{print $1}' logs/access.log | sort -u | wc -l
+  345  2026-11-23 14:45:03 awk '$7 ~ /\/api\/auth\/login/ && $9 == 401 {print $1}' logs/access.log | sort | uniq -c | sort -nr | head -1
+  346  2026-11-23 14:49:14 awk '$9 == 200 {gsub(/ms/,"",$11); s+=$11; n++} END {printf "%.1f\n", s/n}' logs/access.log
+  347  2026-11-23 14:49:35 awk '{t=$11; gsub(/ms/,"",t); print t, $0}' logs/access.log | sort -nr | head -1 | cut -d' ' -f2-
+  348  2026-11-23 14:51:11 awk '{split($4,a,":"); print a[2]}' logs/access.log | sort | uniq -c | sort -n
+  349  2026-11-23 14:51:27 grep -E '" [5][0-9]{2} ' logs/access.log | tee logs/erreurs_5xx.log | wc -l
+  350  2026-11-23 14:51:45 sed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/g' logs/access.log > logs/access_anonyme.log
+  351  2026-11-23 14:52:05 head -n 1 logs/access_anonyme.log
+  352  2026-11-23 14:58:04 find . -name "*.log" -mmin -60 -size +1k -exec wc -l {} +
+  353  2026-11-23 15:07:13 nano src/analyse.sh
+  354  2026-11-23 15:10:42 nano docs/linux.md
+  355  2026-11-23 15:12:56 nano scripts/surveille.sh
+  356  2026-11-23 15:17:47 export MATRICULE=TON_MATRICULE
+  357  2026-11-23 15:17:47 ls -R src scripts docs rapports
+  358  2026-11-23 15:17:47 cat docs/linux.md
+  359  2026-11-23 15:17:47 cat rapports/rapport_*.txt | head -n 20
+  360  2026-11-23 15:18:29 mkdir -p docs/preuves rendus
+  361  2026-11-23 15:18:29 history > docs/preuves/historique_linux.txt
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mhistory -a[27m
+[7mhistory > docs/preuves/historique_linux.txt[27m[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ history -a
+history > docs/preuves/historique_linux.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mexit[27mexit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script terminé sur 2026-11-23 15:21:10+00:00 [COMMAND_EXIT_CODE="0"]
+(/ms/,"",$11); s+=$11; n++} END {printf "%.1f\n", s/n}' logs/access.log
+  347  2026-11-23 14:49:35 awk '{t=$11; gsub(/ms/,"",t); print t, $0}' logs/access.log | sort -nr | head -1 | cut -d' ' -f2-
+  348  2026-11-23 14:51:11 awk '{split($4,a,":"); print a[2]}' logs/access.log | sort | uniq -c | sort -n
+  349  2026-11-23 14:51:27 grep -E '" [5][0-9]{2} ' logs/access.log | tee logs/erreurs_5xx.log | wc -l
+  350  2026-11-23 14:51:45 sed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/g' logs/access.log > logs/access_anonyme.log
+  351  2026-11-23 14:52:05 head -n 1 logs/access_anonyme.log
+  352  2026-11-23 14:58:04 find . -name "*.log" -mmin -60 -size +1k -exec wc -l {} +
+  353  2026-11-23 15:07:13 nano src/analyse.sh
+  354  2026-11-23 15:10:42 nano docs/linux.md
+  355  2026-11-23 15:12:56 nano scripts/surveille.sh
+  356  2026-11-23 15:17:47 export MATRICULE=TON_MATRICULE
+  357  2026-11-23 15:17:47 ls -R src scripts docs rapports
+  358  2026-11-23 15:17:47 cat docs/linux.md
+  359  2026-11-23 15:17:47 cat rapports/rapport_*.txt | head -n 20
+  360  2026-11-23 15:18:29 mkdir -p docs/preuves rendus
+  361  2026-11-23 15:18:29 history > docs/preuves/historique_linux.txt
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mhistory -a[27m
+[7mhistory > docs/preuves/historique_linux.txt[27m[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ history -a
+history > docs/preuves/historique_linux.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mexit[27mexit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mexport MATRICULE=TON_MATRICULE[27m
+[7mmkdir -p rendus[27m
+[7mtar czf rendus/linux_${MATRICULE}.tar.gz src scripts docs rapports[27m
+[7mls -lh rendus/[27m[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ export MATRICULE=TON_MATRICULE
+mkdir -p rendus
+tar czf rendus/linux_${MATRICULE}.tar.gz src scripts docs rapports
+ls -lh rendus/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PE[1PE[1PE[1PE[1PE[1PE[1PE[1PE[1PE[1PE[1PE[1PE[C 779560788
+
+
+
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\total 16K
+-rw-rw-r-- 1 adji-ka adji-ka 16K Nov 23 15:22 [0m[01;31mlinux_779560788.tar.gz[0m
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mtar tzf rendus/linux_${MATRICULE}.tar.gz[27mtar tzf rendus/linux_${MATRICULE}.tar.gz[1P[1P[1P[1P[1P[1P[1P[1P[C[1P[1@7[1@7[1@9[1@5[1@6[1@0[1@7[1@8[1@8
+[?2004l]133;C\]666;vte.shell.preexec!\tar (child): rendus/linux_.tar.gz : open impossible: Aucun fichier ou dossier de ce nom
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+]666;vte.shell.postexec=2\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mexport MATRICULE=779560788[27m
+[7mls -lh rendus/[27m
+[7mtar tzf rendus/linux_${MATRICULE}.tar.gz[27m
+[7msha256sum rendus/linux_${MATRICULE}.tar.gz[27m[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ export MATRICULE=779560788
+ls -lh rendus/
+tar tzf rendus/linux_${MATRICULE}.tar.gz
+sha256sum rendus/linux_${MATRICULE}.tar.gz
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\total 16K
+-rw-rw-r-- 1 adji-ka adji-ka 16K Nov 23 15:22 [0m[01;31mlinux_779560788.tar.gz[0m
+]133;C\]666;vte.shell.preexec!\src/
+src/analyse.sh
+src/GenerateurLogs.java
+scripts/
+scripts/surveille.sh
+docs/
+docs/linux.md
+docs/preuves/
+docs/preuves/linux.log
+docs/preuves/historique_linux.txt
+docs/preuves/linux.tm
+rapports/
+]133;C\]666;vte.shell.preexec!\6173d658653ab26c2837cb08247ec4d93a3072639221c1bbd8a59f9b741b63b1  rendus/linux_779560788.tar.gz
+]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mgit config --global gpg.format ssh[27m
+[7mgit config --global user.signingkey ~/.ssh/id_ed25519.pub[27m
+[7mgit config --global commit.gpgsign true[27m
+[7mgit config --global tag.gpgSign true[27m[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ git config --global gpg.format ssh
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
+git config --global commit.gpgsign true
+git config --global tag.gpgSign true
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7mgit config --global user.name "TON NOM COMPLET"[27m
+[7mgit config --global user.email "ton.email@exemple.com"[27m
+[7mgit config --global init.defaultBranch main[27m
+[7mgit config --global gpg.format ssh[27m
+[7mgit config --global user.signingkey ~/.ssh/id_ed25519.pub[27m
+[7mgit config --global commit.gpgsign true[27m
+[7mgit config --global tag.gpgSign true[27m[A[A[A[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ git config --global user.name "TON NOM COMPLET"
+git config --global user.email "ton.email@exemple.com"
+git config --global init.defaultBranch main
+git config --global gpg.format ssh
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
+git config --global commit.gpgsign true
+git config --global tag.gpgSign true
+[?2004l]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ [7m Comparez git merge et git rebase : historique obtenu, avantages, et « règle d'or » du rebase.[27m
+[7m Quelle différence entre git push --force et git push --force-with-lease ? Dans quel cas le[27m
+[7msecond évite-t-il une catastrophe ?[27m
+[7m À quoi sert git reflog ? Expliquez comment récupérer un commit « perdu » après un git reset --[27m
+[7mhard .[27m
+[7m Dans quelle situation utilise-t-on git cherry-pick ? Que fait l'option -x ?[27m
+[7m Quelle différence entre un tag léger, un tag annoté et un tag signé ? Pourquoi signer ses commits dans[27m
+[7mune équipe ?[27m
+[7m Que fait git fetch ? Et git pull --rebase ? Qu'est-ce qu'une branche de suivi comme[27m
+[7morigin/main ?[27m
+[7m Citez trois règles de protection de la branche main utiles dans une équipe back-end, et ce que[27m
+[7mchacune empêche.[27m[A[A[A[A[A[A[A[A[A[A[A]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$  Comparez git merge et git rebase : historique obtenu, avantages, et « règle d'or » du rebase.
+ Quelle différence entre git push --force et git push --force-with-lease ? Dans quel cas le
+second évite-t-il une catastrophe ?
+ À quoi sert git reflog ? Expliquez comment récupérer un commit « perdu » après un git reset --
+hard .
+ Dans quelle situation utilise-t-on git cherry-pick ? Que fait l'option -x ?
+ Quelle différence entre un tag léger, un tag annoté et un tag signé ? Pourquoi signer ses commits dans
+une équipe ?
+ Que fait git fetch ? Et git pull --rebase ? Qu'est-ce qu'une branche de suivi comme
+origin/main ?
+ Citez trois règles de protection de la branche main utiles dans une équipe back-end, et ce que
+chacune empêche.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[K[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.[1P.git config --global tag.gpgSign true[3@commit.gpgs[C[C[C[C[C[C[C[Cuser.signingkey ~/.ssh/id_ed25519.pub[23Pgpg.format sshinit.defaultBranch mainuser.email "ton.email@exemple.com"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"a"."k"a"7"^"[1P"@"[1P"[1P"[1P"[1P"[1P"[1P"a"d"j"o"[1P"i"k"a"4"6"1"@"g"m"a"i"l"."c"o"m"[C"[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ git c[Kf[Kconfi global[1@g[C[1@-[1@-[C[C[C[C[C[C --list
+[?2004l]133;C\]666;vte.shell.preexec!\[?1h=user.name=TON NOM COMPLET[m
+user.email=adjika461@gmail.com[m
+user.signingkey=/home/adji-ka/.ssh/id_ed25519.pub[m
+credential.https://github.com.helper=[m
+credential.https://github.com.helper=!/usr/bin/gh auth git-credential[m
+credential.https://gist.github.com.helper=[m
+credential.https://gist.github.com.helper=!/usr/bin/gh auth git-credential[m
+init.defaultbranch=main[m
+core.editor=nano[m
+gpg.format=ssh[m
+commit.gpgsign=true[m
+tag.gpgsign=true[m
+[K[?1l>]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ git config --global --listuser.email "adjika461@gmail.com"[16Ptag.gpgSign true[3@commit.gpgs[C[C[C[C[C[C[C[Cuser.signingkey ~/.ssh/id_ed25519.pub[23Pgpg.format sshinit.defaultBranch mainuser.email "ton.email@exemple.com"[7Pname "TON NOM COMPLET[C[11Ptag.gpgSign true[3@commit.gpgs[C[C[C[C[C[C[C[Cuser.signingkey ~/.ssh/id_ed25519.pub[23Pgpg.format sshsha256sum rendus/linux_${MATRICULE}.tar.gz[2Ptar tzf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26Pls -lh rendus/tar tzf rendus/linux_${MATRICULE}.tar.gz[2@sha256sum[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pgit config --global gpg.format sshuser.signingkey ~/.ssh/id_ed25519.pub[18Pcommit.gpgsign true[3Ptag.gpgS[C[C[C[C[C[C[C[Cuser.name "TON NOM COMPLET"[7@email "ton.email@exemple.com[C[11Pinit.defaultBranch main[9Pgpg.format sshuser.signingkey ~/.ssh/id_ed25519.pub[18Pcommit.gpgsign true[3Ptag.gpgS[C[C[C[C[C[C[C[Cuser.email "adjika461@gmail.com"--list[K[Kgit config --global --listuser.email "adjika461@gmail.com"[16Ptag.gpgSign trueuser.email "adjika461@gmail.com"[16Ptag.gpgSign true[3@commit.gpgs[C[C[C[C[C[C[C[Cuser.signingkey ~/.ssh/id_ed25519.pub[23Pgpg.format sshinit.defaultBranch mainuser.email "ton.email@exemple.com"[7Pname "TON NOM COMPLET[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"a"d"j"i" "k"a"
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ git config --global user.name "adji ka"--list[K
+[?2004l]133;C\]666;vte.shell.preexec!\[?1h=user.name=adji ka[m
+user.email=adjika461@gmail.com[m
+user.signingkey=/home/adji-ka/.ssh/id_ed25519.pub[m
+credential.https://github.com.helper=[m
+credential.https://github.com.helper=!/usr/bin/gh auth git-credential[m
+credential.https://gist.github.com.helper=[m
+credential.https://gist.github.com.helper=!/usr/bin/gh auth git-credential[m
+init.defaultbranch=main[m
+core.editor=nano[m
+gpg.format=ssh[m
+commit.gpgsign=true[m
+tag.gpgsign=true[m
+[K[?1l>]666;vte.shell.postexec=0\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latitude-5300: ~/dbe-eval-779560788[01;32madji-ka@adji-ka-Latitude-5300[00m:[01;34m~/dbe-eval-779560788[00m$ git add .
+[?2004l]133;C\]666;vte.shell.preexec!\fatal: ni ceci ni aucun de ses répertoires parents n'est un dépôt git : .git
+]666;vte.shell.postexec=128\]7;file://adji-ka-Latitude-5300/home/adji-ka/dbe-eval-779560788\]0;adji-ka@adji-ka-Latitude-5300:~/dbe-eval-779560788\]666;vte.shell.precmd!\[?2004h]0;adji-ka@adji-ka-Latit

@@ -1,0 +1,365 @@
+    1  2026-11-23 12:30:40 history -w
+    2  2026-11-23 12:30:40 history -w
+    3  2026-11-23 12:30:40 exit
+    4  2026-11-23 12:30:40 su -
+    5  2026-11-23 12:30:40 sudo
+    6  2026-11-23 12:30:40 sudo ls
+    7  2026-11-23 12:30:40 su 
+    8  2026-11-23 12:30:40 su
+    9  2026-11-23 12:30:40 cd Bureau/
+   10  2026-11-23 12:30:40 ls
+   11  2026-11-23 12:30:40 cd ..
+   12  2026-11-23 12:30:40 cd Documents/
+   13  2026-11-23 12:30:40 ls
+   14  2026-11-23 12:30:40 cd td-tp-linux/
+   15  2026-11-23 12:30:40 git init
+   16  2026-11-23 12:30:40 git add .
+   17  2026-11-23 12:30:40 git commit -m "exo1 et exo2"
+   18  2026-11-23 12:30:40 git branch -M main
+   19  2026-11-23 12:30:40 git remote add origin https://github.com/adjika461-techGirl/td-tp-linux.git
+   20  2026-11-23 12:30:40 git push -u origin main
+   21  2026-11-23 12:30:40 git status
+   22  2026-11-23 12:30:40 git add README.md 
+   23  2026-11-23 12:30:40 git commit -m "corection du nom du fichier readme"
+   24  2026-11-23 12:30:40 git push
+   25  2026-11-23 12:30:40 ls
+   26  2026-11-23 12:30:40 cd ..
+   27  2026-11-23 12:30:40 ls
+   28  2026-11-23 12:30:40 cd ..
+   29  2026-11-23 12:30:40 ls
+   30  2026-11-23 12:30:40 cd Téléchargements/
+   31  2026-11-23 12:30:40 ls
+   32  2026-11-23 12:30:40 cd depot-modele-etudiant
+   33  2026-11-23 12:30:40 code .
+   34  2026-11-23 12:30:40 git init
+   35  2026-11-23 12:30:40 git add
+   36  2026-11-23 12:30:40 git init
+   37  2026-11-23 12:30:40 git add
+   38  2026-11-23 12:30:40 git init
+   39  2026-11-23 12:30:40 ps
+   40  2026-11-23 12:30:40 ps -a
+   41  2026-11-23 12:30:40 ps -aux
+   42  2026-11-23 12:30:40 ping google.com
+   43  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface gtk-theme 'yaru-pink'
+   44  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface icon-theme 'yaru-pink'
+   45  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface accent-color 'pink'
+   46  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface gtk-theme 'yaru-pink'
+   47  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface icon-theme 'yaru-pink'
+   48  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface accent-color 'pink'
+   49  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface gtk-theme 'yaru-pindk'
+   50  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface icon-theme 'yaru-pink'
+   51  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface accent-color 'pink'
+   52  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface gtk-theme 'yaru-pindk-dark'
+   53  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface icon-theme 'Yaru-pink-dark'
+   54  2026-11-23 12:30:40 gnome-session-quit --logout --no-prompt
+   55  2026-11-23 12:30:40 ls /usr/share/themes | grep -i yaru
+   56  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface gtk-theme 'Yaru-magenta'
+   57  2026-11-23 12:30:40 gsettings set org.gnome.desktop.interface icon-theme 'Yaru-magenta'
+   58  2026-11-23 12:30:40 gnome-session-quit --logout --no-prompt
+   59  2026-11-23 12:30:40 cd Téléchargements
+   60  2026-11-23 12:30:40 cd Dowload
+   61  2026-11-23 12:30:40 cd Tèlèchargements
+   62  2026-11-23 12:30:40 git init
+   63  2026-11-23 12:30:40 git add *.java *.md
+   64  2026-11-23 12:30:40 git commit -m "evaluation poo heritage"
+   65  2026-11-23 12:30:40 git branch -M main
+   66  2026-11-23 12:30:40 git remote add origin https://github.com/adjika461-techGirl/evaluation-poo-heritage.git
+   67  2026-11-23 12:30:40 git push -u origin main
+   68  2026-11-23 12:30:40 java class_java
+   69  2026-11-23 12:30:40 paiement_java
+   70  2026-11-23 12:30:40 ls
+   71  2026-11-23 12:30:40 ls src
+   72  2026-11-23 12:30:40 find src -name "*java"> sources.txt java -d out @sources.txt
+   73  2026-11-23 12:30:40 echo "# eval-equipe-gNN-05" >> README.md
+   74  2026-11-23 12:30:40 git init
+   75  2026-11-23 12:30:40 git commit -m "first commit"
+   76  2026-11-23 12:30:40 git remote -v
+   77  2026-11-23 12:30:40 sodo /opt/lampp start
+   78  2026-11-23 12:30:40 sudo /opt/lampp start
+   79  2026-11-23 12:30:40 sudo systemctl status apache2
+   80  2026-11-23 12:30:40 sudo systemctl status mysql
+   81  2026-11-23 12:30:40 mysql -u root -p
+   82  2026-11-23 12:30:40 sudo mysql -u root -p
+   83  2026-11-23 12:30:40 sudo apt update 
+   84  2026-11-23 12:30:40 sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+   85  2026-11-23 12:30:40 pwd
+   86  2026-11-23 12:30:40 ls
+   87  2026-11-23 12:30:40 localhost/cours_html
+   88  2026-11-23 12:30:40 pwd
+   89  2026-11-23 12:30:40 ls
+   90  2026-11-23 12:30:40 ls ducument
+   91  2026-11-23 12:30:40 ld Documents
+   92  2026-11-23 12:30:40 fine
+   93  2026-11-23 12:30:40 greb -w "bonjour"
+   94  2026-11-23 12:30:40 grep -w "bonjour"
+   95  2026-11-23 12:30:40 ls -lh
+   96  2026-11-23 12:30:40 javac SaisieRobuste.java
+   97  2026-11-23 12:30:40 java SaisieRobuste
+   98  2026-11-23 12:30:40 cd ~/tp-git-adji-ka
+   99  2026-11-23 12:30:40 git branch
+  100  2026-11-23 12:30:40 cat > Main.java << 'EOF'
+  101  2026-11-23 12:30:40 public class Main {
+  102  2026-11-23 12:30:40     static int addition(int a, int b) {
+  103  2026-11-23 12:30:40         return a + b;
+  104  2026-11-23 12:30:40     }
+  105  2026-11-23 12:30:40     static int soustraction(int a, int b) {
+  106  2026-11-23 12:30:40         return a - b;
+  107  2026-11-23 12:30:40     }
+  108  2026-11-23 12:30:40     static int multiplication(int a, int b) {
+  109  2026-11-23 12:30:40         return a * b;
+  110  2026-11-23 12:30:40     }
+  111  2026-11-23 12:30:40     public static void main(String[] args) {
+  112  2026-11-23 12:30:40         System.out.println("2 + 3 = " + addition(2, 3));
+  113  2026-11-23 12:30:40         System.out.println("5 - 3 = " + soustraction(5, 3));
+  114  2026-11-23 12:30:40         System.out.println("4 * 3 = " + multiplication(4, 3));
+  115  2026-11-23 12:30:40     }
+  116  2026-11-23 12:30:40 }
+  117  2026-11-23 12:30:40 EOF
+  118  2026-11-23 12:30:40 javac Main.java && java Main
+  119  2026-11-23 12:30:40 git add Main.java
+  120  2026-11-23 12:30:40 git commit -m "Ajout de la fonction multiplication"
+  121  2026-11-23 12:30:40 git status
+  122  2026-11-23 12:30:40 git switch main
+  123  2026-11-23 12:30:40 git merge multiplication
+  124  2026-11-23 12:30:40 javac Main.java && java Main
+  125  2026-11-23 12:30:40 git log --oneline --graph --all
+  126  2026-11-23 12:30:40 rm -f Main.class .Main.java.swp
+  127  2026-11-23 12:30:40 git status
+  128  2026-11-23 12:30:40 git switch main
+  129  2026-11-23 12:30:40 cat Main.java
+  130  2026-11-23 12:30:40 git log --oneline --graph --all
+  131  2026-11-23 12:30:40 git switch -c titre
+  132  2026-11-23 12:30:40 cat README.md
+  133  2026-11-23 12:30:40 sed -i '1s/.*/# Calculatrice v2/' README.md
+  134  2026-11-23 12:30:40 cat README.md
+  135  2026-11-23 12:30:40 git add README.md
+  136  2026-11-23 12:30:40 git commit -m "Titre v2 sur branche titre"
+  137  2026-11-23 12:30:40 git switch main
+  138  2026-11-23 12:30:40 cat README.md
+  139  2026-11-23 12:30:40 git add README.md
+  140  2026-11-23 12:30:40 git commit -m "Titre en Java sur main"
+  141  2026-11-23 12:30:40 cat README.md
+  142  2026-11-23 12:30:40 git log --oneline --graph --all -5
+  143  2026-11-23 12:30:40 sed -i '1s/.*/# Calculatrice en Java/' README.md
+  144  2026-11-23 12:30:40 cat README.md
+  145  2026-11-23 12:30:40 git add README.md
+  146  2026-11-23 12:30:40 git commit -m "Titre en Java sur main"
+  147  2026-11-23 12:30:40 git merge titre
+  148  2026-11-23 12:30:40 cat .gitignore
+  149  2026-11-23 12:30:40 ls
+  150  2026-11-23 12:30:40 cd tp-git-adji-ka
+  151  2026-11-23 12:30:40 cat .gitignore
+  152  2026-11-23 12:30:40 echo "*.class" > .gitignore
+  153  2026-11-23 12:30:40 cat .gitignore
+  154  2026-11-23 12:30:40 git status
+  155  2026-11-23 12:30:40 rm .gitignore.swp
+  156  2026-11-23 12:30:40 rm -f *.swp
+  157  2026-11-23 12:30:40 rm -f ..gitignore.swp
+  158  2026-11-23 12:30:40 git add .gitignore
+  159  2026-11-23 12:30:40 git commit -m "Ajout .gitignore"
+  160  2026-11-23 12:30:40 git add -f Main.class
+  161  2026-11-23 12:30:40 git commit -m "Ajoute Main.class (erreur)"
+  162  2026-11-23 12:30:40 git rm --cached Main.class
+  163  2026-11-23 12:30:40 git commit -m "Retire Main.class du suivi"
+  164  2026-11-23 12:30:40 ls
+  165  2026-11-23 12:30:40 git status
+  166  2026-11-23 12:30:40 echo "test bidon" >> Main.java
+  167  2026-11-23 12:30:40 cat Main.java
+  168  2026-11-23 12:30:40 git restore Main.java
+  169  2026-11-23 12:30:40 cat Main.java
+  170  2026-11-23 12:30:40 git status
+  171  2026-11-23 12:30:40 echo "brouillon" >> README.md
+  172  2026-11-23 12:30:40 git add README.md
+  173  2026-11-23 12:30:40 git status
+  174  2026-11-23 12:30:40 git restore --staged README.md
+  175  2026-11-23 12:30:40 git status
+  176  2026-11-23 12:30:40 git restore README.md
+  177  2026-11-23 12:30:40 git status
+  178  2026-11-23 12:30:40 cat README.md
+  179  2026-11-23 12:30:40 git commit --amend -m "Retire le bytecode Main.class du suivi"
+  180  2026-11-23 12:30:40 git log --oneline -3
+  181  2026-11-23 12:30:40 echo "ligne inutile" >> README.md
+  182  2026-11-23 12:30:40 git add README.md
+  183  2026-11-23 12:30:40 git commit -m "ligne inutile"
+  184  2026-11-23 12:30:40 git revert HEAD --no-edit
+  185  2026-11-23 12:30:40 cat README.md
+  186  2026-11-23 12:30:40 git log --oneline -4
+  187  2026-11-23 12:30:40 echo "test reset" >> README.md
+  188  2026-11-23 12:30:40 git add README.md
+  189  2026-11-23 12:30:40 git commit -m "Commit de test"
+  190  2026-11-23 12:30:40 git reset --soft HEAD~1
+  191  2026-11-23 12:30:40 git status
+  192  2026-11-23 12:30:40 cat README.md
+  193  2026-11-23 12:30:40 git commit -m "Commit de test"
+  194  2026-11-23 12:30:40 git reset --hard HEAD~1
+  195  2026-11-23 12:30:40 cat README.md
+  196  2026-11-23 12:30:40 git log --oneline -3
+  197  2026-11-23 12:30:40 git log --oneline
+  198  2026-11-23 12:30:40 git switch --detach 2002dbe
+  199  2026-11-23 12:30:40 cat Main.java
+  200  2026-11-23 12:30:40 git switch main
+  201  2026-11-23 12:30:40 cat Main.java
+  202  2026-11-23 12:30:40 git branch
+  203  2026-11-23 12:30:40 git status
+  204  2026-11-23 12:30:40 git switch -c multiplication
+  205  2026-11-23 12:30:40 nano Main.java
+  206  2026-11-23 12:30:40 git --version
+  207  2026-11-23 12:30:40 java --version
+  208  2026-11-23 12:30:40 git config --global user.name "Adji ka"
+  209  2026-11-23 12:30:40 git config --global user.email "a.ka7@isepdiamniadio.edu.sn"
+  210  2026-11-23 12:30:40 git config --global init.defaultBranch main
+  211  2026-11-23 12:30:40 git config --global core.editor nano
+  212  2026-11-23 12:30:40 git config --global --list
+  213  2026-11-23 12:30:40 cd ~
+  214  2026-11-23 12:30:40 mkdir tp-git-adji-ka
+  215  2026-11-23 12:30:40 pwd
+  216  2026-11-23 12:30:40 cd tp-git-adji-ka
+  217  2026-11-23 12:30:40 pwd
+  218  2026-11-23 12:30:40 git init
+  219  2026-11-23 12:30:40 ls -a
+  220  2026-11-23 12:30:40 nano Main.java
+  221  2026-11-23 12:30:40 javac Main.java
+  222  2026-11-23 12:30:40 java Main
+  223  2026-11-23 12:30:40 echo "calculatrice" -> README.md
+  224  2026-11-23 12:30:40 cat README.md
+  225  2026-11-23 12:30:40 git add Main.java REAMDE.md
+  226  2026-11-23 12:30:40 d
+  227  2026-11-23 12:30:40 echo "# Calculatrice" > README.md
+  228  2026-11-23 12:30:40 git add Main.java README.md
+  229  2026-11-23 12:30:40 git status
+  230  2026-11-23 12:30:40 git commit -m "Initial commit: fonction addition et README"
+  231  2026-11-23 12:30:40 git log --oneline
+  232  2026-11-23 12:30:40 echo "Main.class" > .gitignore
+  233  2026-11-23 12:30:40 git add .gitignore
+  234  2026-11-23 12:30:40 git commit -m "Ajout .gitignore pour ignorer Main.class"
+  235  2026-11-23 12:30:40 git status
+  236  2026-11-23 12:30:40 git log --oneline
+  237  2026-11-23 12:30:40 cat .gitignore
+  238  2026-11-23 12:30:40 cat Main.java
+  239  2026-11-23 12:30:40 nano Main.java
+  240  2026-11-23 12:30:40 git status
+  241  2026-11-23 12:30:40 git commit -a
+  242  2026-11-23 12:30:40 nano Main.java
+  243  2026-11-23 12:30:40 git add Main.java
+  244  2026-11-23 12:30:40 git commit -m "Ajout soustraction"
+  245  2026-11-23 12:30:40 *.class
+  246  2026-11-23 12:30:40 nano .gitignore
+  247  2026-11-23 12:30:40 echo "# tp3_etudiants" >> README.md
+  248  2026-11-23 12:30:40 git init
+  249  2026-11-23 12:30:40 git add .
+  250  2026-11-23 12:30:40 git commit -m "TP3 xml"
+  251  2026-11-23 12:30:40 git branch -M main
+  252  2026-11-23 12:30:40 git remote add origin https://github.com/adjika461-techGirl/tp3_etudiants.git
+  253  2026-11-23 12:30:40 git push -u origin main
+  254  2026-11-23 12:30:40 git init
+  255  2026-11-23 12:30:40 git add
+  256  2026-11-23 12:30:40 git init
+  257  2026-11-23 12:30:40 git add
+  258  2026-11-23 12:30:40 git add .
+  259  2026-11-23 12:30:40 git commit -m"projet-finale"
+  260  2026-11-23 12:30:40 git branch -M main
+  261  2026-11-23 12:30:40 git remote add origin https://github.com/adjika461-techGirl/projet_finale.gi
+  262  2026-11-23 12:30:40 git push -u origin main
+  263  2026-11-23 12:30:40 git add .
+  264  2026-11-23 12:30:40 git commit -m "projet-finale"
+  265  2026-11-23 12:30:40 git branch -M main
+  266  2026-11-23 12:30:40 git remote add origin https://github.com/adjika461-techGirl/projet_finale.git
+  267  2026-11-23 12:30:40 git push -u origin main
+  268  2026-11-23 12:30:40 git remote -v
+  269  2026-11-23 12:30:40 git remote set-url origin https://github.com/adjika461-techGirl/projet_finale.git
+  270  2026-11-23 12:30:40 git push -u origin main
+  271  2026-11-23 12:30:40 git add .
+  272  2026-11-23 12:30:40 git commit -m"ajout des captures" 
+  273  2026-11-23 12:30:40 git push
+  274  2026-11-23 12:30:40 sudo systeml start apache2
+  275  2026-11-23 12:30:40 sudo syscteml start apache2
+  276  2026-11-23 12:30:40 sudo systemctl start apache2
+  277  2026-11-23 12:30:40 sudo apt install umlet
+  278  2026-11-23 12:30:40 find umlet
+  279  2026-11-23 12:30:40 whose umlet
+  280  2026-11-23 12:30:40 cd home
+  281  2026-11-23 12:30:40 ls
+  282  2026-11-23 12:30:40 cd..
+  283  2026-11-23 12:30:40 cd ..
+  284  2026-11-23 12:30:40 ls
+  285  2026-11-23 12:30:40 cd ..
+  286  2026-11-23 12:30:40 ls
+  287  2026-11-23 12:30:40 cd..
+  288  2026-11-23 12:30:40 cd ..
+  289  2026-11-23 12:30:40 cd bin/
+  290  2026-11-23 12:30:40 ls
+  291  2026-11-23 12:30:40 cd bin/
+  292  2026-11-23 12:30:40 cd ..
+  293  2026-11-23 12:30:40 cd var/
+  294  2026-11-23 12:30:40 ls
+  295  2026-11-23 12:30:40 apt search umlet
+  296  2026-11-23 12:30:40 apt list --installed | grep -i umlet
+  297  2026-11-23 12:30:40 sudo apt update
+  298  2026-11-23 12:30:40 sudo apt install snapd
+  299  2026-11-23 12:30:40 sudo snap install drawio
+  300  2026-11-23 12:30:40 sudo mysql -u root -p
+  301  2026-11-23 12:30:40 cd www/html/
+  302  2026-11-23 12:30:40 ls
+  303  2026-11-23 12:30:40 code php_mysqli_procedurale/
+  304  2026-11-23 12:30:40 sudo chmod -r 777 /var/www/html/php_mysqli_procedurale/*
+  305  2026-11-23 12:30:40 sudo chmod -R 777 /var/www/html/php_mysqli_procedurale/*
+  306  2026-11-23 12:30:40 sudo chmod -R 777 /var/www/html/php_mysqli_procedurale/
+  307  2026-11-23 12:30:40 su -
+  308  2026-11-23 12:30:40 sudo -i
+  309  2026-11-23 12:30:40 snap list *****µµ
+  310  2026-11-23 12:30:40 *
+  311  2026-11-23 12:30:40 snap list
+  312  2026-11-23 12:30:40 [200~cmd 2>&1 > f.txt ~
+  313  2026-11-23 12:30:40 false | true
+  314  2026-11-23 12:30:40 $0
+  315  2026-11-23 12:30:40 	./mon_script.sh
+  316  2026-11-23 12:30:40 grep -E 
+  317  2026-11-23 12:30:40 trap "nettoyer_et_quitter" SIGINT SIGTER
+  318  2026-11-23 12:30:40 nohup ./script.sh &
+  319  2026-11-23 12:30:40 nohup ma_commande &
+  320  2026-11-23 12:30:40 grep -E '" [45][0-9]{2} ' access.log
+  321  2026-11-23 12:30:40 grep -E
+  322  2026-11-23 12:30:40 grep -E '" [45][0-9]{2} '
+  323  2026-11-23 12:30:54 cd ~/dbe-eval-779560788
+  324  2026-11-23 12:33:18 code .
+  325  2026-11-23 13:14:36 ./programme 2> logs/gen.err
+  326  2026-11-23 13:14:36 echo $?
+  327  2026-11-23 13:17:37 ./programme 2> logs/gen.err
+  328  2026-11-23 13:17:37 echo $?
+  329  2026-11-23 13:43:10 ./programme 2> logs/gen.err; echo "Code de retour : $?"
+  330  2026-11-23 13:50:13 ./programme 2> logs/gen.err; echo $?
+  331  2026-11-23 13:52:07 echo $?
+  332  2026-11-23 13:53:18 ls
+  333  2026-11-23 13:54:16 ls src/
+  334  2026-11-23 13:55:29 javac out src/GenerateurLogs.java 
+  335  2026-11-23 13:55:47 javac -d out src/GenerateurLogs.java 
+  336  2026-11-23 13:58:30 java -cp out GenerateurLogs 2> logs/gen.err; echo $?
+  337  2026-11-23 14:09:09 cat logs/gen.err
+  338  2026-11-23 14:09:36 cat src/GenerateurLogs.java
+  339  2026-11-23 14:12:27 java -cp out GenerateurLogs 779560788 2000 > logs/access.log
+  340  2026-11-23 14:12:28 wc -l logs/access.log
+  341  2026-11-23 14:12:28 head -n 1 logs/access.log
+  342  2026-11-23 14:16:49 awk '{print $9}' logs/access.log | sort | uniq -c | sort -nr
+  343  2026-11-23 14:19:02 awk '{print $7}' logs/access.log | cut -d'?' -f1 | sort | uniq -c | sort -nr | head -3
+  344  2026-11-23 14:39:07 awk '{print $1}' logs/access.log | sort -u | wc -l
+  345  2026-11-23 14:45:03 awk '$7 ~ /\/api\/auth\/login/ && $9 == 401 {print $1}' logs/access.log | sort | uniq -c | sort -nr | head -1
+  346  2026-11-23 14:49:14 awk '$9 == 200 {gsub(/ms/,"",$11); s+=$11; n++} END {printf "%.1f\n", s/n}' logs/access.log
+  347  2026-11-23 14:49:35 awk '{t=$11; gsub(/ms/,"",t); print t, $0}' logs/access.log | sort -nr | head -1 | cut -d' ' -f2-
+  348  2026-11-23 14:51:11 awk '{split($4,a,":"); print a[2]}' logs/access.log | sort | uniq -c | sort -n
+  349  2026-11-23 14:51:27 grep -E '" [5][0-9]{2} ' logs/access.log | tee logs/erreurs_5xx.log | wc -l
+  350  2026-11-23 14:51:45 sed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/g' logs/access.log > logs/access_anonyme.log
+  351  2026-11-23 14:52:05 head -n 1 logs/access_anonyme.log
+  352  2026-11-23 14:58:04 find . -name "*.log" -mmin -60 -size +1k -exec wc -l {} +
+  353  2026-11-23 15:07:13 nano src/analyse.sh
+  354  2026-11-23 15:10:42 nano docs/linux.md
+  355  2026-11-23 15:12:56 nano scripts/surveille.sh
+  356  2026-11-23 15:17:47 export MATRICULE=TON_MATRICULE
+  357  2026-11-23 15:17:47 ls -R src scripts docs rapports
+  358  2026-11-23 15:17:47 cat docs/linux.md
+  359  2026-11-23 15:17:47 cat rapports/rapport_*.txt | head -n 20
+  360  2026-11-23 15:18:29 mkdir -p docs/preuves rendus
+  361  2026-11-23 15:18:29 history > docs/preuves/historique_linux.txt
+  362  2026-11-23 15:18:29 wc -l docs/preuves/historique_linux.txt
+  363  2026-11-23 15:18:29 cat docs/preuves/historique_linux.txt | tail -n 20
+  364  2026-11-23 15:20:36 history -a
+  365  2026-11-23 15:20:36 history > docs/preuves/historique_linux.txt
